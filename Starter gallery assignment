@@ -5,8 +5,8 @@
   </head> 
   <body>
     <h1> Cat gallery </h1> 
-        <img src="pexels-akbph-18205698.jpg" alt="cat climbing on top of another cat"/>
-        <img src="pexels-pixabay-45201.jpg" alt="Small kitting close up"/>
-        <img src="512px-Domestic_cat_2011_G02.jpg" alt="Cat laying down on sofa "/>
+        <img src="images/pexels-akbph-18205698.jpg" alt="cat climbing on top of another cat"/>
+        <img src="images/pexels-pixabay-45201.jpg" alt="Small kitting close up"/>
+        <img src="images/512px-Domestic_cat_2011_G02.jpg" alt="Cat laying down on sofa "/>
     </body>
 </html>
