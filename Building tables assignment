@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <title> Students favourite Sports</title>
+</head>
+<body>
+<style>
+    table, tr, td {
+        border: 1px solid black;
+    }
+</style>
+
+<table>
+    <caption>Students Favourite Sports</caption>
+    <tr>
+        <th>Football</th>
+        <th>Basket Ball</th>
+        <th>Tennis</th>
+    </tr>
+    <tr>
+        <td>32 girls</td>
+        <td>50 girls</td>
+        <td>12 girls</td>
+    </tr>
+    <tr>
+        <td>28 boys</td>
+        <td>54 boys</td>
+        <td>6 boys</td>
+    </tr>
+    <tr>
+        <td colspan="3">Total number of students=172 students</td>
+    </tr>
+</table>
+<ol type="1">
+  <caption>Ranked order</caption>
+    <li>basket ball</li>
+    <li>football</li>
+    <li>Tennis</li>
+</ol>
+</body>
+</html>
