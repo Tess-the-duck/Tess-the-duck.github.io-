@@ -1,0 +1,45 @@
+<!Doctype html>
+<html>
+<head>
+  <title> Math Test </title>
+</head>
+<body>
+  <form>
+    Name:<br />
+    <input type="text">
+   <br/>
+<p>Start: </p>
+<p>
+    <b> 10&times;2 </b>
+</p>
+    <select>
+        <option>12</option>
+        <option>20</option>
+        <option>300</option>
+    </select>
+ <br/>
+<p>
+    <b> 40&divide;10 </b>
+</p>
+    <select>
+        <option>10</option>
+        <option>3</option>
+        <option>4</option>
+    </select>
+ <br/>
+<p>
+    <b> 10+&frac12; </b>
+</p>
+    <select>
+        <option>10.5</option>
+        <option>8</option>
+        <option>19</option>
+    </select>
+<br/>
+    Benny has 32 apples, Johan has 10 and Armani  has 11. How many do they have altogether? Explain.<br />
+<textarea rows="4" cols="60">
+</textarea>
+ <button type="submit">Submit</button>
+</form>
+  
+  
