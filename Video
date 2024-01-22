@@ -29,7 +29,7 @@
   <h1>Video</h1>
   
   <video controls>
-    <source src="example.mp4" type="video/mp4">
+    <source src="images/WhatsApp Video 2024-01-22 at 7.38.51 PM.mp4" type="video/mp4">
 Your browser does not support the video tag.
   </video>
 
